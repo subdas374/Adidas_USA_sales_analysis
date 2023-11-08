@@ -13,9 +13,7 @@ This repository contains the source code and data for the Adidas USA Sales Analy
 - **Region-specific Sales**: Breaks down sales data by region within the USA.
 - **Customer Segmentation**: Segments customers and analyzes their buying behavior.
 
-## Dashboard Link
 
-You can access the live dashboard here: [Adidas USA Sales Analysis Dashboard](#)
 
 ## Data Sources
 
@@ -45,8 +43,7 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 If you have any questions or need further information, feel free to contact the project owner:
 
-- Name: Your Name
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Name: Subrata Das
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/subdas374/)
 
 Happy Dashboarding!
