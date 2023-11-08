@@ -1,6 +1,6 @@
 # Adidas USA Sales Analysis Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Screenshot 2023-11-08 235735.png)
 
 ## Project Overview
 
