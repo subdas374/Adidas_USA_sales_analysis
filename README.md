@@ -1,6 +1,6 @@
 # Adidas USA Sales Analysis Dashboard
 
-![Dashboard Preview](Screenshot 2023-11-08 235735.png)
+![Dashboard Preview](https://github.com/subdas374/Adidas_USA_sales_analysis/blob/main/Screenshot%202023-11-08%20235735.png)
 
 ## Project Overview
 
